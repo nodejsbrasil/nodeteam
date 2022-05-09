@@ -12,12 +12,12 @@ O evento é 100% gratuito.
 
 ## Lista dos projetos e seus requisitos.
 
-- [1 - Agendamento de Serviço](https://github.com/nodejsbrasil/nodeteam/projetos/projeto-1.md)
-- [2 - Controle de Estoqe](https://github.com/nodejsbrasil/nodeteam/projetos/projeto-2.md)
-- [3 - Gerenciador de arquivos](https://github.com/nodejsbrasil/nodeteam/projetos/projeto-3.md)
-- [4 - Integração API de Terceiros](https://github.com/nodejsbrasil/nodeteam/projetos/projeto-4.md)
-- [5 - Autenticação com E-mail](https://github.com/nodejsbrasil/nodeteam/projetos/projeto-5.md)
-- [6 - Pontos Turisticos](https://github.com/nodejsbrasil/nodeteam/projetos/projeto-6.md)
+- [1 - Agendamento de Serviço](https://github.com/nodejsbrasil/nodeteam/blob/main/projetos/projeto-1.md)
+- [2 - Controle de Estoqe](https://github.com/nodejsbrasil/nodeteam/blob/main/projetos/projeto-2.md)
+- [3 - Gerenciador de arquivos](https://github.com/nodejsbrasil/nodeteam/blob/main/projetos/projeto-3.md)
+- [4 - Integração API de Terceiros](https://github.com/nodejsbrasil/nodeteam/blob/main/projetos/projeto-4.md)
+- [5 - Autenticação com E-mail](https://github.com/nodejsbrasil/nodeteam/blob/main/projetos/projeto-5.md)
+- [6 - Pontos Turisticos](https://github.com/nodejsbrasil/nodeteam/blob/main/projetos/projeto-6.md)
 
 </br>
 
