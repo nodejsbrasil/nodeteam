@@ -59,11 +59,11 @@ Ter conhecimento básico em Javascript, Node.js e TypeScript
       </a>
     </td>
     <td align="center">
-      <a href="" target="_blank">
-        <img style="border-radius: 8%;" src="" width="100px;" alt=""/>
+      <a href="https://github.com/migh1" target="_blank">
+        <img style="border-radius: 0px;" src="https://avatars.githubusercontent.com/u/19498592?v=4" width="100px;" alt="Lucas Migliorini"/>
         <br />
         <sub>
-          <b></b>
+          <b>Lucas Migliorini</b>
         </sub> 
       </a>
     </td>
