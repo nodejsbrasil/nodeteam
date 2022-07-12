@@ -6,7 +6,7 @@
 
 O Node Team é um evento da [Comunidade Node.js Brasil](https://www.facebook.com/groups/1407602962733165) que forma times de estudo de 4 pessoas (Squads) para desenvolver projetos com a tecnologia Node.js utilizando as melhores ferramentas de desenvolvimento do ecossistema Node, proporcionando mais experiência no desenvolvimento de aplicações que possam contribuir na carreira profissional do participante.
 
-O evento é 100% gratuito.
+O evento é 100% online e gratuito.
 
 </br>
 
@@ -70,6 +70,51 @@ Ter conhecimento básico em Javascript, Node.js e TypeScript
   </tr>
 </table>
 
+</br>
+
+## Participantes
+
+</br>
+
+**Team 6**
+
+| Nome |
+| --- |
+| Anilson Monteiro |
+| Jone Bulande |
+| Rodrigo Joaquim Lima |
+| [**Desafio 4 - Integração API de Terceiros**](https://github.com/nodejsbrasil/nodeteam/blob/main/projetos/projeto-4.md) |
+| [**Repositorio do projeto**](https://github.com/rniochy/node-team-squad6-projeto4) |
+
+</br>
+<hr>
+</br>
+
+**Team 8**
+
+| Nome |
+| --- |
+| Cleyton Barbosa Coelho |
+| [**Desafio 4 - Integração API de Terceiros**](https://github.com/nodejsbrasil/nodeteam/blob/main/projetos/projeto-4.md) |
+| [**Repositorio do projeto**](https://github.com/cleytonbc/projeto-4-integracao-api) |
+
+</br>
+<hr>
+</br>
+
+**Team 9**
+
+| Nome |
+| --- |
+| Matheus da Cruz Bernardo Santos |
+| Savio Picanço Do Espirito Santo Brito |
+| Rodrigo Pereira Lima |
+| Paulo Vinicius Barbosa de Souza |
+| [**Desafio 1 - Agendamento de Serviço**](https://github.com/nodejsbrasil/nodeteam/blob/main/projetos/projeto-1.md) |
+| [**Repositorio do projeto**](https://github.com/savinnsk/Api_Agendamento_Servico) |
+
+</br>
+<hr>
 </br>
 
 ## Organização
