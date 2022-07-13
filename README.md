@@ -78,13 +78,13 @@ Ter conhecimento básico em Javascript, Node.js e TypeScript
 
 **Team 6**
 
-| Nome |
-| --- |
-| Anilson Monteiro |
-| Jone Bulande |
-| Rodrigo Joaquim Lima |
-| [**Desafio 4 - Integração API de Terceiros**](https://github.com/nodejsbrasil/nodeteam/blob/main/projetos/projeto-4.md) |
-| [**Repositorio do projeto**](https://github.com/rniochy/node-team-squad6-projeto4) |
+| Nome | GitHub |
+| --- | --- |
+| Anilson Monteiro | [https://github.com/an-2018](https://github.com/an-2018) |
+| Jone Bulande | [https://github.com/JoneBulande](https://github.com/JoneBulande) |
+| Rodrigo Joaquim Lima | [https://github.com/rniochy](https://github.com/rniochy) |
+| [**Desafio 4 - Integração API de Terceiros**](https://github.com/nodejsbrasil/nodeteam/blob/main/projetos/projeto-4.md) | |
+| [**Repositorio do projeto**](https://github.com/rniochy/node-team-squad6-projeto4) | |
 
 </br>
 <hr>
@@ -92,9 +92,9 @@ Ter conhecimento básico em Javascript, Node.js e TypeScript
 
 **Team 8**
 
-| Nome |
-| --- |
-| Cleyton Barbosa Coelho |
+| Nome | GitHub |
+| --- | --- |
+| Cleyton Barbosa Coelho | [https://github.com/cleytonbc](https://github.com/cleytonbc) |
 | [**Desafio 4 - Integração API de Terceiros**](https://github.com/nodejsbrasil/nodeteam/blob/main/projetos/projeto-4.md) |
 | [**Repositorio do projeto**](https://github.com/cleytonbc/projeto-4-integracao-api) |
 
@@ -104,12 +104,12 @@ Ter conhecimento básico em Javascript, Node.js e TypeScript
 
 **Team 9**
 
-| Nome |
-| --- |
-| Matheus da Cruz Bernardo Santos |
-| Savio Picanço Do Espirito Santo Brito |
-| Rodrigo Pereira Lima |
-| Paulo Vinicius Barbosa de Souza |
+| Nome | GitHub |
+| --- | --- |
+| Matheus da Cruz Bernardo Santos | [https://github.com/Matheuscruztj](https://github.com/Matheuscruztj)
+| Savio Picanço Do Espirito Santo Brito | [https://github.com/savinnsk](https://github.com/savinnsk)
+| Rodrigo Pereira Lima | [https://github.com/TheRplima](https://github.com/TheRplima)
+| Paulo Vinicius Barbosa de Souza | [https://github.com/pauloVBS](https://github.com/pauloVBS)
 | [**Desafio 1 - Agendamento de Serviço**](https://github.com/nodejsbrasil/nodeteam/blob/main/projetos/projeto-1.md) |
 | [**Repositorio do projeto**](https://github.com/savinnsk/Api_Agendamento_Servico) |
 
